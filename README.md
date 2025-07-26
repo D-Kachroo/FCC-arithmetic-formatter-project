@@ -1,6 +1,6 @@
 # Arithmetic Formatter Project - By: David Kachroo
 
-This repository contains my solution for the **"Build an Arithmetic Formatter"** project from the **freeCodeCamp Scientific Computing with Python** certification.
+This public repository contains my solution for the **"Build an Arithmetic Formatter"** project from the **freeCodeCamp Scientific Computing with Python** certification.
 
 ## Project Overview
 The `arithmetic_arranger` function formats a list of arithmetic problems vertically and side-by-side, following specific spacing and alignment rules. It also includes an optional parameter to display the answers.

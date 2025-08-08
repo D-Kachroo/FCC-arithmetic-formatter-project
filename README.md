@@ -15,3 +15,10 @@ The `arithmetic_arranger` function formats a list of arithmetic problems vertica
   - Limits operands to a maximum of 4 digits.
 - Right-aligns numbers and includes proper spacing.
 - Optionally displays the answers when `solve=True`.
+
+### Example Usage:
+```python
+from arithmetic_arranger import arithmetic_arranger
+
+print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"]))
+print(arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True))
